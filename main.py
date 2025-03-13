@@ -128,9 +128,9 @@ Busy = InlineKeyboardMarkup(
 image_urls = [
     "https://envs.sh/QGI.jpg",
     "https://envs.sh/QGI.jpg",
+    "https://graph.org/file/2a5cb7bb0144ccfda3d37-60007d94009e55415f.jpg",
     "https://envs.sh/QGI.jpg",
-    "https://envs.sh/QGI.jpg",
-    "https://envs.sh/QGI.jpg",
+    "https://graph.org/file/2a5cb7bb0144ccfda3d37-60007d94009e55415f.jpg",
     # Add more image URLs as needed
 ]
 
@@ -178,7 +178,7 @@ async def start_command(bot: Client, message: Message):
 
     await asyncio.sleep(1)
     await loading_message.edit_text(
-        "Checking status Ok... \n**ᴊᴏɪɴ ᴏᴜʀ <a href='https://t.me/+IIFl6a0K_M4zMTQ9'>ᴛᴇʟᴇɢʀᴀᴍ Group</a>**\n\n"
+        "Checking status Ok... \n**ᴊᴏɪɴ ᴏᴜʀ <a href='https://t.me/IFSASHU1'>ᴛᴇʟᴇɢʀᴀᴍ Group</a>**\n\n"
         "Progress:🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%\n\n"
     )
         
@@ -373,10 +373,10 @@ async def txt_handler(bot: Client, m: Message):
 
             try:  
                 
-                cc = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**🎞️ Title : **  {name1} __**[{res}]**__.mp4\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {m.chat.id}**'
-                cc1 = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**📁 Title : **  {name1} .pdf\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {m.chat.id}**'
-                cczip = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**📁 Title : **  {name1} .zip\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {m.chat.id}**'  
-                ccimg = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**📁 Title : **  {name1} .jpg\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {m.chat.id}**'  
+                cc = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**🎞️ Title : **  {name1} __**[{res}]**__.mp4\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {༄࿐𑁍IFS𑁍(आशु)❥◉🇮🇳™}**'
+                cc1 = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**📁 Title : **  {name1} .pdf\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {༄࿐𑁍IFS𑁍(आशु)❥◉🇮🇳™}**'
+                cczip = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**📁 Title : **  {name1} .zip\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {༄࿐𑁍IFS𑁍(आशु)❥◉🇮🇳™}**'  
+                ccimg = f'**——— ✦  {str(count).zfill(3)} ✦ ———**\n\n**📁 Title : **  {name1} .jpg\n\n<pre><code>**📚 Course :** {b_name}</code></pre>\n\n**🌟 Extracted By : {CR}\n📤 Uploaded By : {༄࿐𑁍IFS𑁍(आशु)❥◉🇮🇳™}**'  
                 
                 if "drive" in url:
                     try:
