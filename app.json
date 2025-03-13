@@ -1,28 +1,28 @@
 {
     "name": "NIKHIL",
     "description": "Bot For Telegram",
-    "logo": "https://tinypic.host/images/2025/01/10/Purvi-Cid.th.jpeg",
+    "logo": "https://graph.org/file/2a5cb7bb0144ccfda3d37-60007d94009e55415f.jpg",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
     "repository": "",
-    "success_url": "https://t.me/+taZCy5OkoMUwNzI9",
+    "success_url": "https://t.me/IFSASHU1",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "Enter Your Api Id",
-            "value": "28094744",
+            "value": "23612641",
             "required": true
         },
         "API_HASH": {
             "description": "Enter Your Api Hash",
-            "value": "a75af4285edc7747c57bb19147ca0b9b",
+            "value": "f7ef90c733241bdc2977e3fcc53df5b7",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter Your Telegram Bot Token",
+            "description": "8084849151:AAESZMqbwSKnGHQqBUpgA-fJci_FgYRc1fM",
             "value": "",
             "required": true
         },
